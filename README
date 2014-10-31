@@ -18,6 +18,7 @@ Running instructions
 
 The easy way is via CTest:
 
+cd <somedir>/kwscratch/build/CxxTest-build
 ctest -V
 
 This runs the program, displaying the output.
